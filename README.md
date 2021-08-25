@@ -35,4 +35,5 @@ The following resources are contributed by third parties and the owners are resp
 
 ### Libraries
 -
-
+### Tutorials / Examples
+- [Ubuntu 20.04 ViUR-Setup](https://gist.github.com/XeoN-GHMB/1ccf6d9f5799eb0502041b44a7ffb15b)
