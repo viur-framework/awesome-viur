@@ -2,7 +2,7 @@
 ---
 <div align="center">
   <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a><br>
-  <a href="https://www.viur.dev/"><img width="400" src="https://www.viur.dev/static/images/logo-viur.svg" alt="ViUR logo"></a>
+  <a href="https://www.viur.dev/"><img width="400" src="https://www.viur.dev/static/images/logo.svg" alt="ViUR logo"></a>
 </div>
 
 # Awesome ViUR
