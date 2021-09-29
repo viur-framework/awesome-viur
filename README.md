@@ -13,7 +13,6 @@
 The following resources are managed by the ViUR team
 - [Website](https://www.viur.dev/)
 - [Github](https://github.com/viur-framework)
-  - [Documentation](https://docs.viur.dev/latest/)
   - [ViUR-Ignite Docu](https://ignite.viur.dev/)
   - [ViUR-Core RTD](https://viur-core.readthedocs.io/)
   - [ViUR-Flare RTD](https://viur-flare.readthedocs.io/)
