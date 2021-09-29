@@ -27,6 +27,12 @@ The following resources are managed by the ViUR team
 - [ViUR Vi](https://github.com/viur-framework/viur-vi) - The Administration Interface of ViUR
 - [ViUR Icons](https://github.com/viur-framework/viur-icons) - The ViUR Icon Library
 
+### Additional Repositories
+- [ViUR Admin](https://github.com/viur-framework/viur-admin) - The QT Based Administration Interface
+- [ViUR Control](https://github.com/viur-framework/viur-control) - A GUI build to manage your ViUR Projects
+- [ViUR Logics](https://github.com/viur-framework/viur-logics) - A Python-style expressional language and template engine
+
+
 ## Third-Party Resources
 The following resources are contributed by third parties and the owners are responsible for their maintenance
 
@@ -35,7 +41,7 @@ The following resources are contributed by third parties and the owners are resp
 - [ViUR Tools](https://github.com/viur-framework/viur-tools) - Some ViUR console tools like a CSV-importer
 
 ### Libraries
--
+- [ViUR Extension](https://github.com/XeoN-GHMB/viur-ext) - Library with frequently used utils
 
 ### Tutorials / Examples
 - [Ubuntu 20.04 ViUR-Setup](https://gist.github.com/XeoN-GHMB/1ccf6d9f5799eb0502041b44a7ffb15b) - A overview with all needed/usefull depenencies
