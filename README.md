@@ -13,11 +13,11 @@
 The following resources are managed by the ViUR team
 - [Website](https://www.viur.dev/)
 - [Github](https://github.com/viur-framework)
-  - [ViUR-Ignite Docu](https://ignite.viur.dev/)
-  - [ViUR-Icons Overview](https://icons.viur.dev/)
-  - [ViUR-Core Docu](https://viur-core.readthedocs.io/)
-  - [ViUR-Flare Docu](https://viur-flare.readthedocs.io/)
-  - [ViUR-Vi Docu](https://viur-vi.readthedocs.io/)
+- [ViUR-Ignite Docu](https://ignite.viur.dev/)
+- [ViUR-Icons Overview](https://icons.viur.dev/)
+- [ViUR-Core Docu](https://viur-core.readthedocs.io/)
+- [ViUR-Flare Docu](https://viur-flare.readthedocs.io/)
+- [ViUR-Vi Docu](https://viur-vi.readthedocs.io/)
 
 ### Repositories
 - [ViUR Base](https://github.com/viur-framework/viur-base) - Start a new ViUR Project by cloning from this template
