@@ -26,6 +26,7 @@ The following resources are managed by the ViUR team
 - [ViUR Flare](https://github.com/viur-framework/flare) - The Python library that uses Pyodide to create SPAs with ViUR
 - [ViUR Vi](https://github.com/viur-framework/viur-vi) - The Administration Interface of ViUR
 - [ViUR Icons](https://github.com/viur-framework/viur-icons) - The ViUR Icon Library
+- [ViUR Datastore](https://github.com/viur-framework/viur-datastore) - a high performance datastore adapter
 
 ### Additional Repositories
 - [ViUR Admin](https://github.com/viur-framework/viur-admin) - The QT Based Administration Interface
@@ -39,9 +40,11 @@ The following resources are contributed by third parties and the owners are resp
 ### Tools
 - [App Server](https://github.com/XeoN-GHMB/app_server) - A lightweight alternative for dev_appserver
 - [ViUR Tools](https://github.com/viur-framework/viur-tools) - Some ViUR console tools like a CSV-importer
+- [ViUR CLI](https://github.com/viur-framework/viur-cli) - Command line tool for creating ViUR applications
 
 ### Libraries
 - [ViUR Extension](https://github.com/XeoN-GHMB/viur-ext) - Library with frequently used utils
+- [ViUR Shoelace](https://github.com/viur-framework/viur-shoelace) - Web Component library with ignite style
 
 ### Tutorials / Examples
 - [Ubuntu 20.04 ViUR-Setup](https://gist.github.com/XeoN-GHMB/1ccf6d9f5799eb0502041b44a7ffb15b) - A overview with all needed/usefull depenencies
