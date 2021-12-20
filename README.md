@@ -18,6 +18,7 @@ The following resources are managed by the ViUR team
 - [ViUR-Core Docu](https://viur-core.readthedocs.io/)
 - [ViUR-Flare Docu](https://viur-flare.readthedocs.io/)
 - [ViUR-Vi Docu](https://viur-vi.readthedocs.io/)
+- [ViUR-Shoelace Docu](https://serene-allen-537100.netlify.app/)
 
 ### Repositories
 - [ViUR Base](https://github.com/viur-framework/viur-base) - Start a new ViUR Project by cloning from this template
