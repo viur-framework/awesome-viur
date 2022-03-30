@@ -1,8 +1,7 @@
 ---
----
 <div align="center">
   <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a><br>
-  <a href="https://www.viur.dev/"><img width="400" src="https://www.viur.dev/static/images/logo-red.svg" alt="ViUR logo"></a>
+  <a href="https://www.viur.dev/"><img width="60%" src="https://raw.githubusercontent.com/viur-framework/viur-artwork/main/logo-red.svg" alt="ViUR logo"></a>
 </div>
 
 # Awesome ViUR
@@ -13,35 +12,37 @@
 The following resources are managed by the ViUR team
 - [Website](https://www.viur.dev/)
 - [Github](https://github.com/viur-framework)
-- [ViUR-Ignite Docu](https://ignite.viur.dev/)
+
+### Documentation
+- [ViUR-Core](https://viur-core.readthedocs.io/)
+- [ViUR-Flare](https://viur-flare.readthedocs.io/)
 - [ViUR-Icons Overview](https://icons.viur.dev/)
-- [ViUR-Core Docu](https://viur-core.readthedocs.io/)
-- [ViUR-Flare Docu](https://viur-flare.readthedocs.io/)
-- [ViUR-Vi Docu](https://viur-vi.readthedocs.io/)
-- [ViUR-Shoelace Docu](https://serene-allen-537100.netlify.app/)
+- [ViUR-Ignite](https://ignite.viur.dev/)
+- [ViUR-Shoelace](https://serene-allen-537100.netlify.app/)
+- [ViUR-Vi](https://viur-vi.readthedocs.io/)
 
-### Repositories
-- [ViUR Base](https://github.com/viur-framework/viur-base) - Start a new ViUR Project by cloning from this template
-- [ViUR Core](https://github.com/viur-framework/viur-core) - The server-side component of ViUR
-- [ViUR Ignite](https://github.com/viur-framework/viur-ignite) - The CSS toolkit written in less for ViUR
-- [ViUR Flare](https://github.com/viur-framework/flare) - The Python library that uses Pyodide to create SPAs with ViUR
-- [ViUR Vi](https://github.com/viur-framework/viur-vi) - The Administration Interface of ViUR
-- [ViUR Icons](https://github.com/viur-framework/viur-icons) - The ViUR Icon Library
-- [ViUR Datastore](https://github.com/viur-framework/viur-datastore) - a high performance datastore adapter
+### Main Repositories
+- [ViUR-Base](https://github.com/viur-framework/viur-base) - Start a new ViUR Project by cloning from this template
+- [ViUR-Core](https://github.com/viur-framework/viur-core) - The server-side component of ViUR
+- [ViUR-Flare](https://github.com/viur-framework/flare) - The Python library that uses Pyodide to create SPAs with ViUR
+- [ViUR-Vi](https://github.com/viur-framework/viur-vi) - The Administration Interface of ViUR
 
-### Additional Repositories
-- [ViUR Admin](https://github.com/viur-framework/viur-admin) - The QT Based Administration Interface
-- [ViUR Control](https://github.com/viur-framework/viur-control) - A GUI build to manage your ViUR Projects
-- [ViUR Logics](https://github.com/viur-framework/viur-logics) - A Python-style expressional language and template engine
-
+### Further Repositories
+- [ViUR-Admin](https://github.com/viur-framework/viur-admin) - The QT Based Administration Interface
+- [ViUR-Artwork](https://github.com/viur-framework/viur-artwork) - Repository for logos and other artwork
+- [ViUR-CLI](https://github.com/viur-framework/viur-cli) - Command-line interface for managing and developing ViUR applications
+- [ViUR-Control](https://github.com/viur-framework/viur-control) - A GUI build to manage your ViUR Projects
+- [ViUR-Datastore](https://github.com/viur-framework/viur-datastore) - a high performance datastore adapter
+- [ViUR-Icons](https://github.com/viur-framework/viur-icons) - The ViUR Icon Library
+- [ViUR-Ignite](https://github.com/viur-framework/viur-ignite) - The CSS toolkit written in less for ViUR
+- [ViUR-Logics](https://github.com/viur-framework/viur-logics) - A Python-style expressional language and template engine
 
 ## Third-Party Resources
 The following resources are contributed by third parties and the owners are responsible for their maintenance
 
 ### Tools
 - [App Server](https://github.com/XeoN-GHMB/app_server) - A lightweight alternative for dev_appserver
-- [ViUR Tools](https://github.com/viur-framework/viur-tools) - Some ViUR console tools like a CSV-importer
-- [ViUR CLI](https://github.com/viur-framework/viur-cli) - Command line tool for creating ViUR applications
+- [ViUR-Tools](https://github.com/viur-framework/viur-tools) - Some ViUR console tools like a CSV-importer
 
 ### Libraries
 - [ViUR Extension](https://github.com/XeoN-GHMB/viur-ext) - Library with frequently used utils
