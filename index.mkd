@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://viur-framework.github.io/awesome-viur/README
+redirect_url: ./README
 ---
