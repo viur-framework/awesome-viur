@@ -5,7 +5,7 @@
 </div>
 
 # Awesome ViUR
-> A list of awesome things related to ViUR. Maintained by <a rel="" href="https://github.com/XeoN-GHMB">Andreas H. Kelch</a>.
+> A list of awesome things related to ViUR.
 
 
 ## Official ViUR Resources
