@@ -35,6 +35,8 @@ The following resources are managed by the ViUR team
 - [ViUR-Datastore](https://github.com/viur-framework/viur-datastore) - a high performance datastore adapter
 - [ViUR-Icons](https://github.com/viur-framework/viur-icons) - The ViUR Icon Library
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-ignite.svg" height="32"> [ViUR-Ignite](https://github.com/viur-framework/viur-ignite) - The CSS toolkit written in less for ViUR
+- [ViUR-WSL](https://github.com/Grashalmbeisser/viur-wsl-automated-setup) - The ViUR WSL Automated Setup project is a set of scripts that can make the installation and creation of an developerfriendly ViUR environment comfortable
+- [ViUR-Container](https://github.com/viur-framework/viur-container/pkgs/container/viur3-container) Developerfriendly ViUR environment in a Docker Container
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-logics.svg" height="32"> [ViUR-Logics](https://github.com/viur-framework/viur-logics) - A Python-style expressional language and template engine
 
 ## Third-Party Resources
