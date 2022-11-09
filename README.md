@@ -13,7 +13,7 @@ The following resources are managed by the ViUR team
 - [Website](https://www.viur.dev/)
 - [Github](https://github.com/viur-framework)
 
-### Documentation
+### <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-docs.svg" height="32"> Documentation
 - [ViUR-Core](https://viur-core.readthedocs.io/)
 - [ViUR-Flare](https://viur-flare.readthedocs.io/)
 - [ViUR-Icons Overview](https://icons.viur.dev/)
@@ -33,7 +33,7 @@ The following resources are managed by the ViUR team
 - [ViUR-CLI](https://github.com/viur-framework/viur-cli) - Command-line interface for managing and developing ViUR applications
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-control.svg" height="32"> [ViUR-Control](https://github.com/viur-framework/viur-control) - A GUI build to manage your ViUR Projects
 - [ViUR-Datastore](https://github.com/viur-framework/viur-datastore) - a high performance datastore adapter
-- [ViUR-Icons](https://github.com/viur-framework/viur-icons) - The ViUR Icon Library
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-icons.svg" height="32"> [ViUR-Icons](https://github.com/viur-framework/viur-icons) - The ViUR Icon Library
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-ignite.svg" height="32"> [ViUR-Ignite](https://github.com/viur-framework/viur-ignite) - The CSS toolkit written in less for ViUR
 - [ViUR-WSL](https://github.com/viur-framework/viur-wsl) - The ViUR WSL automated setup project is a set of scripts that can make the installation and creation of a developer friendly ViUR environment comfortable
 - [ViUR-Container](https://github.com/viur-framework/viur-container/pkgs/container/viur3-container) A developer friendly ViUR environment in a Docker Container
