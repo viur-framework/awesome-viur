@@ -13,7 +13,7 @@ The following resources are managed by the ViUR team
 - [Website](https://www.viur.dev/)
 - [Github](https://github.com/viur-framework)
 
-### <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-docs.svg" height="32"> Documentation
+### <img style="margin-bottom: -9px;" src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-docs.svg" height="32"> Documentation
 - [ViUR-Core](https://viur-core.readthedocs.io/)
 - [ViUR-Flare](https://viur-flare.readthedocs.io/)
 - [ViUR-Icons Overview](https://icons.viur.dev/)
