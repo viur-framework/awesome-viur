@@ -30,7 +30,7 @@ The following resources are managed by the ViUR team
 ### Further Repositories
 - [ViUR-Admin](https://github.com/viur-framework/viur-admin) - The QT Based Administration Interface
 - [ViUR-Artwork](https://github.com/viur-framework/viur-artwork) - Repository for logos and other artwork
-- [ViUR-CLI](https://github.com/viur-framework/viur-cli) - Command-line interface for managing and developing ViUR applications
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-cli.svg" height="32"> [ViUR-CLI](https://github.com/viur-framework/viur-cli) - Command-line interface for managing and developing ViUR applications
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-control.svg" height="32"> [ViUR-Control](https://github.com/viur-framework/viur-control) - A GUI build to manage your ViUR Projects
 - [ViUR-Datastore](https://github.com/viur-framework/viur-datastore) - a high performance datastore adapter
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-icons.svg" height="32"> [ViUR-Icons](https://github.com/viur-framework/viur-icons) - The ViUR Icon Library
@@ -48,7 +48,7 @@ The following resources are contributed by third parties and the owners are resp
 
 ### Libraries
 - [ViUR Extension](https://github.com/XeoN-GHMB/viur-ext) - Library with frequently used utils
-- [ViUR Shoelace](https://github.com/viur-framework/viur-shoelace) - Web Component library with ignite style
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-shoelace.svg" height="32"> [ViUR Shoelace](https://github.com/viur-framework/viur-shoelace) - Web Component library with ignite style
 
 ### Tutorials / Examples
 - [Ubuntu 20.04 ViUR-Setup](https://gist.github.com/XeoN-GHMB/1ccf6d9f5799eb0502041b44a7ffb15b) - A overview with all needed/usefull depenencies
