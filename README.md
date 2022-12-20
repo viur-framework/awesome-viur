@@ -22,16 +22,16 @@ The following resources are managed by the ViUR team
 - [ViUR-Vi](https://viur-vi.readthedocs.io/)
 
 ### Main Repositories
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-cli.svg" height="32"> [ViUR-CLI](https://github.com/viur-framework/viur-cli) - Command-line interface for managing and developing ViUR applications
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-base.svg" height="32"> [ViUR-Base](https://github.com/viur-framework/viur-base) - Start a new ViUR Project by cloning from this template
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-core.svg" height="32"> [ViUR-Core](https://github.com/viur-framework/viur-core) - The server-side component of ViUR
-- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-flare.svg" height="32"> [ViUR-Flare](https://github.com/viur-framework/flare) - The Python library that uses Pyodide to create SPAs with ViUR
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vi.svg" height="32"> [ViUR-Vi](https://github.com/viur-framework/viur-vi) - The Administration Interface of ViUR
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-shoelace.svg" height="32"> [ViUR Shoelace](https://github.com/viur-framework/viur-shoelace) - Web Component library with ignite style
 
 ### Further Repositories
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-flare.svg" height="32"> [ViUR-Flare](https://github.com/viur-framework/flare) - The Python library that uses Pyodide to create SPAs with ViUR
 - [ViUR-Admin](https://github.com/viur-framework/viur-admin) - The QT Based Administration Interface
 - [ViUR-Artwork](https://github.com/viur-framework/viur-artwork) - Repository for logos and other artwork
-- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-cli.svg" height="32"> [ViUR-CLI](https://github.com/viur-framework/viur-cli) - Command-line interface for managing and developing ViUR applications
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-control.svg" height="32"> [ViUR-Control](https://github.com/viur-framework/viur-control) - A GUI build to manage your ViUR Projects
 - [ViUR-Datastore](https://github.com/viur-framework/viur-datastore) - a high performance datastore adapter
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-icons.svg" height="32"> [ViUR-Icons](https://github.com/viur-framework/viur-icons) - The ViUR Icon Library
