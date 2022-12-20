@@ -26,6 +26,7 @@ The following resources are managed by the ViUR team
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-core.svg" height="32"> [ViUR-Core](https://github.com/viur-framework/viur-core) - The server-side component of ViUR
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-flare.svg" height="32"> [ViUR-Flare](https://github.com/viur-framework/flare) - The Python library that uses Pyodide to create SPAs with ViUR
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vi.svg" height="32"> [ViUR-Vi](https://github.com/viur-framework/viur-vi) - The Administration Interface of ViUR
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-shoelace.svg" height="32"> [ViUR Shoelace](https://github.com/viur-framework/viur-shoelace) - Web Component library with ignite style
 
 ### Further Repositories
 - [ViUR-Admin](https://github.com/viur-framework/viur-admin) - The QT Based Administration Interface
@@ -47,8 +48,7 @@ The following resources are contributed by third parties and the owners are resp
 - [ViUR-Tools](https://github.com/viur-framework/viur-tools) - Some ViUR console tools like a CSV-importer
 
 ### Libraries
-- [ViUR Extension](https://github.com/XeoN-GHMB/viur-ext) - Library with frequently used utils
-- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-shoelace.svg" height="32"> [ViUR Shoelace](https://github.com/viur-framework/viur-shoelace) - Web Component library with ignite style
+
 
 ### Tutorials / Examples
 - [Ubuntu 20.04 ViUR-Setup](https://gist.github.com/XeoN-GHMB/1ccf6d9f5799eb0502041b44a7ffb15b) - A overview with all needed/usefull depenencies
