@@ -30,22 +30,24 @@ The following resources are managed by the ViUR team
 
 ### Further Repositories
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-logics.svg" height="32"> [ViUR-Logics](https://github.com/viur-framework/viur-logics) - A Python-style expressional language and template engine
-- [ViUR-Datastore](https://github.com/viur-framework/viur-datastore) - a high performance datastore adapter
-- [ViUR-Artwork](https://github.com/viur-framework/viur-artwork) - Repository for logos and other artwork
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-datastore.svg" height="32"> [ViUR-Datastore](https://github.com/viur-framework/viur-datastore) - a high performance datastore adapter
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-icons.svg" height="32"> [ViUR-Artwork](https://github.com/viur-framework/viur-artwork) - Repository for logos and other artwork
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-icons.svg" height="32"> [ViUR-Icons](https://github.com/viur-framework/viur-icons) - The ViUR Icon Library
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-ignite.svg" height="32"> [ViUR-Ignite](https://github.com/viur-framework/viur-ignite) - The CSS toolkit written in less for ViUR
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-flare.svg" height="32"> [ViUR-Flare](https://github.com/viur-framework/flare) - The Python library that uses Pyodide to create SPAs with ViUR
-- [ViUR-Admin](https://github.com/viur-framework/viur-admin) - The QT Based Administration Interface
-- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-control.svg" height="32"> [ViUR-Control](https://github.com/viur-framework/viur-control) - A GUI build to manage your ViUR Projects
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-scriptor.svg" height="32"> [ViUR-Scriptor](https://github.com/viur-framework/viur-scriptor) - A scripting enviroment for the ViUR Framework
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vue.svg" height="32"> [ViUR-Vue-utils](https://github.com/viur-framework/viur-vue-utils) - A library for communication between VueJs and the ViUR Core
 
 ## Third-Party Resources
 The following resources are contributed by third parties and the owners are responsible for their maintenance
 
 ### Tools
-- [App Server](https://github.com/XeoN-GHMB/app_server) - A lightweight alternative for dev_appserver
-- [ViUR-WSL](https://github.com/viur-framework/viur-wsl) - The ViUR WSL automated setup project is a set of scripts that can make the installation and creation of a developer friendly ViUR environment comfortable
 - [ViUR-Container](https://github.com/viur-framework/viur-container/pkgs/container/viur3-container) A developer friendly ViUR environment in a Docker Container
+- [ViUR-WSL](https://github.com/viur-framework/viur-wsl) - The ViUR WSL automated setup project
 - [ViUR-Tools](https://github.com/viur-framework/viur-tools) - Some ViUR console tools like a CSV-importer
+- [ViUR-Admin](https://github.com/viur-framework/viur-admin) - The QT Based Administration Interface
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-appserver.svg" height="32"> [App Server](https://github.com/XeoN-GHMB/app_server) - A lightweight alternative for dev_appserver
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-control.svg" height="32"> [ViUR-Control](https://github.com/viur-framework/viur-control) - A GUI build to manage your ViUR Projects
 
 ### Libraries
 
