@@ -56,3 +56,5 @@ The following resources are contributed by third parties and the owners are resp
 - [Ubuntu 20.04 ViUR-Setup](https://gist.github.com/XeoN-GHMB/1ccf6d9f5799eb0502041b44a7ffb15b) - A overview with all needed/usefull depenencies
 - [Mac Monterey ViUR-Setup](https://gist.github.com/XeoN-GHMB/0e28dce2ac612cc36bcf93d9bc698d0f) - A overview with all needed/usefull depenencies
 - [Manjaro 21.1.6 ViUR-Setup](https://gist.github.com/XeoN-GHMB/e916dfd6b45e28ac5ec653dcf509956b) - A overview with all needed/usefull depenencies
+- [Mac Ventura Mx - CPU ViUR-Setup](https://gist.github.com/XeoN-GHMB/57f7d34401fcf476738359ef42043f83) - A overview with all needed/usefull depenencies
+
