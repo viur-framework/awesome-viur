@@ -29,7 +29,7 @@ The following resources are managed by the ViUR team
 ### <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vi.svg" height="32">  Vi Repositories
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-admin.svg" height="32"> [Vi Admin](https://github.com/viur-framework/vi-admin) - The Administration Interface of ViUR
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-shoelace.svg" height="32"> [Vi Shoelace](https://github.com/viur-framework/vi-shoelace) - Web Component library with ignite style
-- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vue-components.svg" height="32"> [Vi Vue Components](https://github.com/viur-framework/vi-components) - Vue Component library with ignite style
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vue-components.svg" height="32"> [Vi Vue Components](https://github.com/viur-framework/vi-vue-components) - Vue Component library with ignite style
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vue-utils.svg" height="32"> [Vi Vue Utils](https://github.com/viur-framework/vi-vue-utils) - A library for communication between VueJs and the ViUR Core
 
 ### Further Repositories
