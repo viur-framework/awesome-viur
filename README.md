@@ -18,15 +18,19 @@ The following resources are managed by the ViUR team
 - [ViUR-Flare](https://viur-flare.readthedocs.io/)
 - [ViUR-Icons Overview](https://icons.viur.dev/)
 - [ViUR-Ignite](https://ignite.viur.dev/)
-- [ViUR-Shoelace](https://serene-allen-537100.netlify.app/)
+- [Vi-Shoelace](https://serene-allen-537100.netlify.app/)
 - [ViUR-Vi](https://viur-vi.readthedocs.io/)
 
 ### Main Repositories
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-cli.svg" height="32"> [ViUR-CLI](https://github.com/viur-framework/viur-cli) - Command-line interface for managing and developing ViUR applications
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-base.svg" height="32"> [ViUR-Base](https://github.com/viur-framework/viur-base) - Start a new ViUR Project by cloning from this template
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-core.svg" height="32"> [ViUR-Core](https://github.com/viur-framework/viur-core) - The server-side component of ViUR
-- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vi.svg" height="32"> [ViUR-Vi](https://github.com/viur-framework/viur-vi) - The Administration Interface of ViUR
-- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-shoelace.svg" height="32"> [ViUR Shoelace](https://github.com/viur-framework/viur-shoelace) - Web Component library with ignite style
+
+### <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vi.svg" height="32">  Vi Repositories
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-admin.svg" height="32"> [Vi Admin](https://github.com/viur-framework/vi-admin) - The Administration Interface of ViUR
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-shoelace.svg" height="32"> [Vi Shoelace](https://github.com/viur-framework/vi-shoelace) - Web Component library with ignite style
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vue-components.svg" height="32"> [Vi Components](https://github.com/viur-framework/vi-components) - Vue Component library with ignite style
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vue-utils.svg" height="32"> [Vi-Vue-utils](https://github.com/viur-framework/vi-vue-utils) - A library for communication between VueJs and the ViUR Core
 
 ### Further Repositories
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-logics.svg" height="32"> [ViUR-Logics](https://github.com/viur-framework/viur-logics) - A Python-style expressional language and template engine
@@ -36,7 +40,6 @@ The following resources are managed by the ViUR team
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-ignite.svg" height="32"> [ViUR-Ignite](https://github.com/viur-framework/viur-ignite) - The CSS toolkit written in less for ViUR
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-flare.svg" height="32"> [ViUR-Flare](https://github.com/viur-framework/flare) - The Python library that uses Pyodide to create SPAs with ViUR
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-scriptor.svg" height="32"> [ViUR-Scriptor](https://github.com/viur-framework/viur-scriptor) - A scripting enviroment for the ViUR Framework
-- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-vue.svg" height="32"> [ViUR-Vue-utils](https://github.com/viur-framework/viur-vue-utils) - A library for communication between VueJs and the ViUR Core
 
 ## Third-Party Resources
 The following resources are contributed by third parties and the owners are responsible for their maintenance
