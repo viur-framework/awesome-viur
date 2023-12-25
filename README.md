@@ -49,15 +49,15 @@ The following resources are contributed by third parties and the owners are resp
 - [ViUR-WSL](https://github.com/viur-framework/viur-wsl) - The ViUR WSL automated setup project
 - [ViUR-Tools](https://github.com/viur-framework/viur-tools) - Some ViUR console tools like a CSV-importer
 - [ViUR-Admin](https://github.com/viur-framework/viur-admin) - The QT Based Administration Interface
-- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-appserver.svg" height="32"> [App Server](https://github.com/XeoN-GHMB/app_server) - A lightweight alternative for dev_appserver
+- <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-appserver.svg" height="32"> [App Server](https://github.com/akelch/app_server) - A lightweight alternative for dev_appserver
 - <img src="https://github.com/viur-framework/viur-artwork/raw/main/icons/icon-control.svg" height="32"> [ViUR-Control](https://github.com/viur-framework/viur-control) - A GUI build to manage your ViUR Projects
 
 ### Libraries
 
 
 ### Tutorials / Examples
-- [Ubuntu 20.04 ViUR-Setup](https://gist.github.com/XeoN-GHMB/1ccf6d9f5799eb0502041b44a7ffb15b) - A overview with all needed/usefull depenencies
-- [Mac Monterey ViUR-Setup](https://gist.github.com/XeoN-GHMB/0e28dce2ac612cc36bcf93d9bc698d0f) - A overview with all needed/usefull depenencies
-- [Manjaro 21.1.6 ViUR-Setup](https://gist.github.com/XeoN-GHMB/e916dfd6b45e28ac5ec653dcf509956b) - A overview with all needed/usefull depenencies
-- [Mac Ventura Mx - CPU ViUR-Setup](https://gist.github.com/XeoN-GHMB/57f7d34401fcf476738359ef42043f83) - A overview with all needed/usefull depenencies
+- [Ubuntu 20.04 ViUR-Setup](https://gist.github.com/akelch/1ccf6d9f5799eb0502041b44a7ffb15b) - A overview with all needed/usefull depenencies
+- [Mac Monterey ViUR-Setup](https://gist.github.com/akelch/0e28dce2ac612cc36bcf93d9bc698d0f) - A overview with all needed/usefull depenencies
+- [Manjaro 21.1.6 ViUR-Setup](https://gist.github.com/akelch/e916dfd6b45e28ac5ec653dcf509956b) - A overview with all needed/usefull depenencies
+- [Mac Ventura Mx - CPU ViUR-Setup](https://gist.github.com/akelch/57f7d34401fcf476738359ef42043f83) - A overview with all needed/usefull depenencies
 
